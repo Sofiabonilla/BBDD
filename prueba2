@@ -1,0 +1,6 @@
+text,label
+"Mi número de teléfono es 555-123-4567.", "sensible"
+"Por favor, envíame un correo a contacto@ejemplo.com.", "sensible"
+"Mi dirección es 123 Calle Falsa, Ciudad.", "sensible"
+"¡Eres un idiota!", "tóxico"
+"Esto es aburrido, ¿puedes cambiar de tema?", "normal"
